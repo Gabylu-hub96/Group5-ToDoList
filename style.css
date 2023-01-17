@@ -21,10 +21,8 @@
 }
 #footer-col-left {
   display: flex;
-  width: 25.3333%;
-  align-items: stretch;
-  flex-flow: column wrap;
-  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: flex-start;
 }
 #footer-col-middle {
   display: flex;
